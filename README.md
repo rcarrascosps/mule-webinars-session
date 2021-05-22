@@ -8,7 +8,7 @@ It is oriented for different audiences: **Developers, Architects, IT Managers, D
 
 The proposed topics and webinars are:
 
-1.  Title: APIs are Products and you should treat them like that!
+ -  Title: APIs are Products and you should treat them like that!
 
     a.  **Objective:** Make the audience realize the relevance of the APIs as part of a Digital Transformation Strategy
 		
@@ -20,64 +20,65 @@ The proposed topics and webinars are:
 		applying several design principles that we will share with the audience
 
 	c.  **Audience:**
-		-Architects
-		-IT Managers
-		-Digital Transformation Managers
+	- Architects
+	- IT Managers
+	- Digital Transformation Managers
 
-2.  Title: Let us introduce you into the Mulesoft World. A first glance of Mulesoft Technology.
+ -  Title: Let us introduce you into the Mulesoft World. A first glance of Mulesoft Technology.
     
 	a.  **Objective:** Make the audience realize the value of Mulesoft technology.
 		
     b.  **Description:** We will introduce to the audience how broad is Mulesoft Technology. Covering topics and use cases like:
-				- Microservices 
-				- Integration 
-				- Service Bus
-				- B2B
-				- ETL
-				- Event Driven Architecture. 
+	- Microservices 
+	- Integration 
+	- Service Bus
+	- B2B
+	- ETL
+	- Event Driven Architecture. 
+	
 		We will induct the audience into a real-life scenario where APIs are bringing value into the organization and how Mulesoft solves it. We
 		will showcase the product to make the audience understand the value of Mulesoft Technology
 
 	c.  **Audience:**
-		- Architects
-		- IT Managers
-		- Developers
+	-  Architects
+	- IT Managers
+	- Developers
 
-3.  Title: Reliable Patterns applied using Mulesoft Anypoint Platform.
+ -  Title: Reliable Patterns applied using Mulesoft Anypoint Platform.
 
     a.  **Objective:** Make the audience realize how to implement highly reliable Mulesoft applications using industry proven Design Patterns.
 
     b.  **Description:** We will share with the audience how to apply design patterns into our Mulesoft applications. Patterns like:
-						- API Gateway
-						- Circuit Breaker
-						- Bulk Heads
-						- Timeouts
-						- Retries
-						- And more.
+	- API Gateway
+	- Circuit Breaker
+	- Bulk Heads
+	- Timeouts
+	- Retries
+	- And more.
 
     c.  **Audience**:
-		- Architects
-		- Developers
+	- Architects
+	- Developers
 
-4.  **Title:** Let's go Cloud Native with Mulesoft.
+ -  **Title:** Let's go Cloud Native with Mulesoft.
 
     a.  **Objective**: Apply Cloud Native Patterns into Mulesoft Applications
 		
     b.  **Description:** In this chapter we will cover how Cloud Native principles and patterns can be applied while using Mulesoft Technology.
-					     Mulesoft offers a platform that can be be used to create cloud native based services and APIs.
-				         Characteristics like:
-						 - Event Driven
-						 - Scaling
-						 - API Gateway
-						 - Circuit Breaking
-						 - Breaking the data into your services
-						 - Monitoring and Telemetry
+		Mulesoft offers a platform that can be be used to create cloud native based services and APIs.
+	    Characteristics like:
+	- Event Driven
+	- Scaling
+	- API Gateway
+	- Circuit Breaking
+	- Breaking the data into your services
+	- Monitoring and Telemetry
 
     c.  **Audience:**
-		- Architects
-		- Developers
+	- Architects
+	- Developers
 
-5. **Title:** Containers, Kubernetes, Mulesoft Runtime Fabric. Mulesoft applications containerized.
+ - **Title:** Containers, Kubernetes, Mulesoft Runtime Fabric. Mulesoft applications containerized.
 
 	a. **Objective**: Explain how Mulesoft applications can get deployed in containers and in Kubernetes. Introduce the audience into Runtime Fabric.
 	
@@ -88,8 +89,9 @@ The proposed topics and webinars are:
 						to deploy Mulesoft Runtime Fabric.
 						
 	c. **Audience:**
-		- Architects
-		- IT Managers
+	-  Architects
+	- IT Managers
+
 		
 6. **Title:** Automation and more automation for building, packaging, testing and deploying your mulesoft applications.
 

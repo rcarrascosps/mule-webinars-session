@@ -36,8 +36,8 @@ The proposed topics and webinars are:
 	- ETL
 	- Event Driven Architecture. 
 	
-		We will induct the audience into a real-life scenario where APIs are bringing value into the organization and how Mulesoft solves it. We
-		will showcase the product to make the audience understand the value of Mulesoft Technology
+	We will induct the audience into a real-life scenario where APIs are bringing value into the organization and how Mulesoft solves it. We
+	will showcase the product to make the audience understand the value of Mulesoft Technology
 
 	c.  **Audience:**
 	-  Architects

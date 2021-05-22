@@ -38,7 +38,7 @@ c.  **Audience:**
 -  IT Managers
 - Developers
 
-## 3. Title: Reliable Patterns applied using Mulesoft Anypoint Platform.
+## 3. Title: Integration Reliable Patterns applied using Mulesoft Anypoint Platform.
 
    a.  **Objective:** Make the audience realize how to implement highly reliable Mulesoft applications using industry proven Design Patterns.
 
@@ -93,6 +93,17 @@ a. **Objective**:  Share with the audience how they can automate the processes o
 b. **Description:** Together with the Maven Plugin,  MUNIT plugin and a CI/CD + tools like Postman we can automate those processes and deliver a complete CI/CD strategy for your projects.
 Automation is a key element for modern development, and we will present how you can achieve for your Mulesoft Development
 	
+c. **Audience:**
+- Architects
+- IT Managers
+- Developers
+
+## 7. Title:  Event Driven Architecture. AsynAPI compatibility.
+
+a. **Objective**:  Share with the audience the support for AsyncAPI. Share with the audience how with Mulesoft you can design APIs that respond to events.
+	
+b. **Description:** This is one of the new features by Mulesoft Anypoint Platform, during the session we will introduce it to the audience, and make them realize the value of Designing and Building Asyn APIs. During the explanation we will share a use case built with Kafka and Rabbit MQ.
+
 c. **Audience:**
 - Architects
 - IT Managers

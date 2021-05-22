@@ -8,7 +8,7 @@ It is oriented for different audiences: Developers, Architects, IT Managers, Dig
 
 The proposed topics and webinars are:
 
-**1.  Title: APIs are Products and you should treat them like that.**
+1.  Title: APIs are Products and you should treat them like that.
 
     a.  **Objective:** Make the audience realize the relevance of the APIs
         as part of a Digital Transformation Strategy

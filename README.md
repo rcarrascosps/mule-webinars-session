@@ -4,7 +4,7 @@ This repo describe the content of a set of webinars related with Mulesoft Techno
 
 It is conformed by a set of topics that can be taken as a series or individually.
 
-It is oriented for different audiences: Developers, Architects, IT Managers, Digital Transformation Managers.
+It is oriented for different audiences: **Developers, Architects, IT Managers, Digital Transformation Managers.**
 
 The proposed topics and webinars are:
 

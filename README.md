@@ -26,7 +26,7 @@ The proposed topics and webinars are:
 		ii. IT Managers
 		iii. Digital Transformation Managers
 
-**2.  Title: Let us introduce you into the Mulesoft World.**
+2.  Title: Let us introduce you into the Mulesoft World.
     
 	a.  **Objective:** Make the audience realize the value of Mulesoft technology.
 		
@@ -40,7 +40,7 @@ The proposed topics and webinars are:
 		ii. IT Managers
 		iii. Developers
 
-**3.  Title: Reliable Patterns applied using Mulesoft Anypoint Platform.**
+3.  Title: Reliable Patterns applied using Mulesoft Anypoint Platform.
 
     a.  **Objective:** Make the audience realize how to implement highly reliable Mulesoft applications using industry proven Design Patterns
 
@@ -56,7 +56,7 @@ The proposed topics and webinars are:
 			i.  Architects
 			ii. Developers
 
-**4.  Title: Let's go Cloud Native with Mulesoft.**
+4.  Title: Let's go Cloud Native with Mulesoft.
 
     a.  **Objective: Apply Cloud Native Patterns into Mulesoft Applications**
 		

@@ -8,12 +8,12 @@ It is oriented for different audiences: Developers, Architects, IT Managers, Dig
 
 The proposed topics and webinars are:
 
-1.  Title: APIs are Products and you should treat them like that.
+**1.  Title: APIs are Products and you should treat them like that.**
 
-    a.  Objective: Make the audience realize the relevance of the APIs
+    a.  **Objective:** Make the audience realize the relevance of the APIs
         as part of a Digital Transformation Strategy
 		
-    b.  Description: This is the first session of the series. We will
+    b.  **Description:** This is the first session of the series. We will
         cover how relevant are the APIs for our lives and how we live
         surrounded by them, even though we do not know. We will cover several examples on how the APIs are helping organizations to generate a new business model; how the APIs are
 		helping organizations to generate a new source of revenue.
@@ -21,37 +21,30 @@ The proposed topics and webinars are:
 		We are also going to highlight the relevance of having a Style guide for your APIs and use Mulesoft Design Center to showcase
 		how to design an API applying several design principles that we will share with the audience
 
-	c.  Audience:
+	c.  **Audience:**
 		i.  Architects
 		ii. IT Managers
 		iii. Digital Transformation Managers
 
-
-2.  Title: Let us introduce you into the Mulesoft World.
+**2.  Title: Let us introduce you into the Mulesoft World.**
     
-	a.  Objective: Make the audience realize the value of Mulesoft
-        technology.
+	a.  **Objective:** Make the audience realize the value of Mulesoft technology.
 		
-    b.  Description: We will introduce to the audience how broad is
-        Mulesoft Technology. Covering topics and use cases like:
+    b.  **Description:** We will introduce to the audience how broad is Mulesoft Technology. Covering topics and use cases like:
         Microservices, Integration, Service Bus, B2B, ETL, Event Driven
         Architecture. We will induct the audience into a real-life scenario where APIs are bringing value into the organization and how Mulesoft solves it. We
 		will showcase the product to make the audience realize how to us Mulesoft.
 
-	c.  Audience:
+	c.  **Audience:**
 		i.  Architects
 		ii. IT Managers
 		iii. Developers
 
+**3.  Title: Reliable Patterns applied using Mulesoft Anypoint Platform.**
 
-3.  Title: Reliable Patterns applied using Mulesoft Anypoint Platform.
+    a.  **Objective:** Make the audience realize how to implement highly reliable Mulesoft applications using industry proven Design Patterns
 
-    a.  Objective: Make the audience realize how to implement highly
-        reliable Mulesoft applications using industry proven Design
-        Patterns
-
-    b.  Description: We will share with the audience how to apply design
-        patterns into our Mulesoft applications. Patterns like:
+    b.  **Description:** We will share with the audience how to apply design patterns into our Mulesoft applications. Patterns like:
 			i.  API Gateway
 			ii. Circuit Breaker
 			iii. Bulk Heads
@@ -59,15 +52,14 @@ The proposed topics and webinars are:
 			v.  Retries
 			vi. etc
 
-    c.  Audience:
+    c.  **Audience**:
 			i.  Architects
 			ii. Developers
 
-4.  Title: Let's go Cloud Native with Mulesoft.
+**4.  Title: Let's go Cloud Native with Mulesoft.**
 
-    a.  Objective: Apply Cloud Native Patterns into Mulesoft
-        Applications
+    a.  **Objective: Apply Cloud Native Patterns into Mulesoft Applications**
 		
-    b.  Description:
+    b.  **Description:**
 
-    c.  Audience:
+    c.  **Audience:**

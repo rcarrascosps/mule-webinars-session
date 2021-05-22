@@ -20,9 +20,9 @@ The proposed topics and webinars are:
 		applying several design principles that we will share with the audience
 
 	c.  **Audience:**
-		- Architects
-		- IT Managers
-		- Digital Transformation Managers
+		-Architects
+		-IT Managers
+		-Digital Transformation Managers
 
 2.  Title: Let us introduce you into the Mulesoft World. A first glance of Mulesoft Technology.
     
